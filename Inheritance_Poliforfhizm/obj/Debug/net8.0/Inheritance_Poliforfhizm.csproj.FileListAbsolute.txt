@@ -1,0 +1,14 @@
+C:\Users\User\source\repos\Inheritance_Poliforfhizm\Inheritance_Poliforfhizm\bin\Debug\net8.0\Inheritance_Poliforfhizm.exe
+C:\Users\User\source\repos\Inheritance_Poliforfhizm\Inheritance_Poliforfhizm\bin\Debug\net8.0\Inheritance_Poliforfhizm.deps.json
+C:\Users\User\source\repos\Inheritance_Poliforfhizm\Inheritance_Poliforfhizm\bin\Debug\net8.0\Inheritance_Poliforfhizm.runtimeconfig.json
+C:\Users\User\source\repos\Inheritance_Poliforfhizm\Inheritance_Poliforfhizm\bin\Debug\net8.0\Inheritance_Poliforfhizm.dll
+C:\Users\User\source\repos\Inheritance_Poliforfhizm\Inheritance_Poliforfhizm\bin\Debug\net8.0\Inheritance_Poliforfhizm.pdb
+C:\Users\User\source\repos\Inheritance_Poliforfhizm\Inheritance_Poliforfhizm\obj\Debug\net8.0\Inheritance_Poliforfhizm.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\User\source\repos\Inheritance_Poliforfhizm\Inheritance_Poliforfhizm\obj\Debug\net8.0\Inheritance_Poliforfhizm.AssemblyInfoInputs.cache
+C:\Users\User\source\repos\Inheritance_Poliforfhizm\Inheritance_Poliforfhizm\obj\Debug\net8.0\Inheritance_Poliforfhizm.AssemblyInfo.cs
+C:\Users\User\source\repos\Inheritance_Poliforfhizm\Inheritance_Poliforfhizm\obj\Debug\net8.0\Inheritance_Poliforfhizm.csproj.CoreCompileInputs.cache
+C:\Users\User\source\repos\Inheritance_Poliforfhizm\Inheritance_Poliforfhizm\obj\Debug\net8.0\Inheritance_Poliforfhizm.dll
+C:\Users\User\source\repos\Inheritance_Poliforfhizm\Inheritance_Poliforfhizm\obj\Debug\net8.0\refint\Inheritance_Poliforfhizm.dll
+C:\Users\User\source\repos\Inheritance_Poliforfhizm\Inheritance_Poliforfhizm\obj\Debug\net8.0\Inheritance_Poliforfhizm.pdb
+C:\Users\User\source\repos\Inheritance_Poliforfhizm\Inheritance_Poliforfhizm\obj\Debug\net8.0\Inheritance_Poliforfhizm.genruntimeconfig.cache
+C:\Users\User\source\repos\Inheritance_Poliforfhizm\Inheritance_Poliforfhizm\obj\Debug\net8.0\ref\Inheritance_Poliforfhizm.dll
